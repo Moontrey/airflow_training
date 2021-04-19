@@ -7,5 +7,5 @@
 ### Usage
 
 Run the web service with docker
-docker-compose up
-Check http://localhost:8080
+- docker-compose up
+- Check http://localhost:8080
